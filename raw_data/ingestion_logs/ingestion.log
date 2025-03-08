@@ -1,0 +1,264 @@
+2025-02-26 15:33:00,819 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 15:33:00,885 - INFO - Successfully saved churn_data_2025-02-26_15-33-00.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_15-33-00.csv
+2025-02-26 15:33:03,455 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 15:33:05,606 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 15:33:07,505 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 15:33:09,422 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 15:33:11,302 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 15:33:11,328 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_15-33-11.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_15-33-11.csv
+2025-02-26 15:33:11,357 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_15-33-11.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_15-33-11.csv
+2025-02-26 15:33:11,380 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_15-33-11.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_15-33-11.csv
+2025-02-26 15:33:11,400 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_15-33-11.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_15-33-11.csv
+2025-02-26 15:33:11,420 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_15-33-11.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_15-33-11.csv
+2025-02-26 15:34:51,166 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 15:34:51,241 - INFO - Successfully saved churn_data_2025-02-26_15-34-51.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_15-34-51.csv
+2025-02-26 15:34:53,865 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 15:34:55,783 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 15:34:57,602 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 15:34:59,553 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 15:35:01,528 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 15:35:01,555 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_15-35-01.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_15-35-01.csv
+2025-02-26 15:35:01,588 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_15-35-01.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_15-35-01.csv
+2025-02-26 15:35:01,621 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_15-35-01.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_15-35-01.csv
+2025-02-26 15:35:01,643 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_15-35-01.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_15-35-01.csv
+2025-02-26 15:35:01,664 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_15-35-01.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_15-35-01.csv
+2025-02-26 16:00:36,915 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:00:36,966 - INFO - Successfully saved churn_data_2025-02-26_16-00-36.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-00-36.csv
+2025-02-26 16:00:39,450 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:00:41,480 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:00:43,479 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:00:45,319 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:00:47,473 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:00:47,514 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-00-47.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-00-47.csv
+2025-02-26 16:00:47,541 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-00-47.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-00-47.csv
+2025-02-26 16:00:47,568 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-00-47.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-00-47.csv
+2025-02-26 16:00:47,589 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-00-47.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-00-47.csv
+2025-02-26 16:00:47,613 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-00-47.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-00-47.csv
+2025-02-26 16:08:18,487 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:08:18,536 - INFO - Successfully saved churn_data_2025-02-26_16-08-18.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-08-18.csv
+2025-02-26 16:08:20,870 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:08:22,990 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:08:24,896 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:08:26,893 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:08:28,974 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:08:29,001 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-08-28.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-08-28.csv
+2025-02-26 16:08:29,030 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-08-29.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-08-29.csv
+2025-02-26 16:08:29,058 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-08-29.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-08-29.csv
+2025-02-26 16:08:29,080 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-08-29.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-08-29.csv
+2025-02-26 16:08:29,100 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-08-29.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-08-29.csv
+2025-02-26 16:23:25,703 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:23:25,771 - INFO - Successfully saved churn_data_2025-02-26_16-23-25.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-23-25.csv
+2025-02-26 16:23:28,306 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:23:30,173 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:23:32,146 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:23:34,295 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:23:36,199 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:23:36,249 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-23-36.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-23-36.csv
+2025-02-26 16:23:36,275 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-23-36.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-23-36.csv
+2025-02-26 16:23:36,302 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-23-36.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-23-36.csv
+2025-02-26 16:23:36,320 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-23-36.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-23-36.csv
+2025-02-26 16:23:36,341 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-23-36.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-23-36.csv
+2025-02-26 16:25:50,220 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:25:50,285 - INFO - Successfully saved churn_data_2025-02-26_16-25-50.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-25-50.csv
+2025-02-26 16:25:52,704 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:25:54,632 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:25:56,511 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:25:58,454 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:26:00,314 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:26:00,340 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-26-00.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-26-00.csv
+2025-02-26 16:26:00,367 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-26-00.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-26-00.csv
+2025-02-26 16:26:00,395 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-26-00.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-26-00.csv
+2025-02-26 16:26:00,412 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-26-00.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-26-00.csv
+2025-02-26 16:26:00,433 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-26-00.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-26-00.csv
+2025-02-26 16:30:38,998 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:30:39,052 - INFO - Successfully saved churn_data_2025-02-26_16-30-38.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-30-38.csv
+2025-02-26 16:30:41,562 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:30:43,578 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:30:45,716 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:30:47,604 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:30:49,817 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:30:49,847 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-30-49.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-30-49.csv
+2025-02-26 16:30:49,875 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-30-49.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-30-49.csv
+2025-02-26 16:30:49,903 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-30-49.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-30-49.csv
+2025-02-26 16:30:49,920 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-30-49.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-30-49.csv
+2025-02-26 16:30:49,940 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-30-49.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-30-49.csv
+2025-02-26 16:41:41,030 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:41:41,142 - INFO - Successfully saved churn_data_2025-02-26_16-41-41.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-41-41.csv
+2025-02-26 16:41:43,766 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:41:45,821 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:41:47,826 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:41:49,730 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:41:51,644 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:41:51,681 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-41-51.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-41-51.csv
+2025-02-26 16:41:51,722 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-41-51.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-41-51.csv
+2025-02-26 16:41:51,764 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-41-51.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-41-51.csv
+2025-02-26 16:41:51,782 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-41-51.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-41-51.csv
+2025-02-26 16:41:51,802 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-41-51.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-41-51.csv
+2025-02-26 16:45:29,339 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:45:29,395 - INFO - Successfully saved churn_data_2025-02-26_16-45-29.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-45-29.csv
+2025-02-26 16:45:31,891 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:45:33,870 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:45:35,959 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:45:37,868 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:45:40,018 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:45:40,049 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-45-40.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-45-40.csv
+2025-02-26 16:45:40,095 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-45-40.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-45-40.csv
+2025-02-26 16:45:40,130 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-45-40.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-45-40.csv
+2025-02-26 16:45:40,147 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-45-40.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-45-40.csv
+2025-02-26 16:45:40,167 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-45-40.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-45-40.csv
+2025-02-26 16:47:15,552 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:47:15,600 - INFO - Successfully saved churn_data_2025-02-26_16-47-15.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-47-15.csv
+2025-02-26 16:47:18,102 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:47:20,152 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:47:22,223 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:47:24,196 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:47:26,061 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:47:26,093 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-47-26.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-47-26.csv
+2025-02-26 16:47:26,128 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-47-26.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-47-26.csv
+2025-02-26 16:47:26,154 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-47-26.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-47-26.csv
+2025-02-26 16:47:26,168 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-47-26.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-47-26.csv
+2025-02-26 16:47:26,190 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-47-26.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-47-26.csv
+2025-02-26 16:50:35,240 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:50:35,325 - INFO - Successfully saved churn_data_2025-02-26_16-50-35.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-50-35.csv
+2025-02-26 16:50:37,746 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:50:39,685 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:50:41,669 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:50:43,560 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:50:45,463 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:50:45,491 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-50-45.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-50-45.csv
+2025-02-26 16:50:45,519 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-50-45.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-50-45.csv
+2025-02-26 16:50:45,548 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-50-45.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-50-45.csv
+2025-02-26 16:50:45,563 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-50-45.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-50-45.csv
+2025-02-26 16:50:45,585 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-50-45.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-50-45.csv
+2025-02-26 16:51:48,075 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:51:48,139 - INFO - Successfully saved churn_data_2025-02-26_16-51-48.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-51-48.csv
+2025-02-26 16:51:50,549 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:51:52,389 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:51:54,173 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:51:56,016 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:51:57,863 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:51:57,892 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-51-57.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-51-57.csv
+2025-02-26 16:51:57,926 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-51-57.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-51-57.csv
+2025-02-26 16:51:57,952 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-51-57.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-51-57.csv
+2025-02-26 16:51:57,968 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-51-57.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-51-57.csv
+2025-02-26 16:51:57,991 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-51-57.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-51-57.csv
+2025-02-26 16:52:37,445 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:52:37,505 - INFO - Successfully saved churn_data_2025-02-26_16-52-37.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-52-37.csv
+2025-02-26 16:52:40,188 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:52:41,982 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:52:43,915 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:52:45,794 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:52:47,801 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:52:47,833 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-52-47.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-52-47.csv
+2025-02-26 16:52:47,863 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-52-47.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-52-47.csv
+2025-02-26 16:52:47,896 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-52-47.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-52-47.csv
+2025-02-26 16:52:47,913 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-52-47.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-52-47.csv
+2025-02-26 16:52:47,935 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-52-47.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-52-47.csv
+2025-02-26 16:55:42,183 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:55:42,246 - INFO - Successfully saved churn_data_2025-02-26_16-55-42.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-55-42.csv
+2025-02-26 16:55:44,820 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:55:46,712 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:55:48,703 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:55:50,520 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:55:52,446 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:55:52,473 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-55-52.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-55-52.csv
+2025-02-26 16:55:52,501 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-55-52.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-55-52.csv
+2025-02-26 16:55:52,531 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-55-52.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-55-52.csv
+2025-02-26 16:55:52,546 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-55-52.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-55-52.csv
+2025-02-26 16:55:52,567 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-55-52.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-55-52.csv
+2025-02-26 16:56:41,088 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-26 16:56:41,236 - INFO - Successfully saved churn_data_2025-02-26_16-56-41.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-26_16-56-41.csv
+2025-02-26 16:56:43,710 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-26 16:56:45,710 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-26 16:56:47,606 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-26 16:56:49,527 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-26 16:56:51,425 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-26 16:56:51,452 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-26_16-56-51.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-26_16-56-51.csv
+2025-02-26 16:56:51,481 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-26_16-56-51.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-26_16-56-51.csv
+2025-02-26 16:56:51,509 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-26_16-56-51.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-26_16-56-51.csv
+2025-02-26 16:56:51,524 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-26_16-56-51.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-26_16-56-51.csv
+2025-02-26 16:56:51,546 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-26_16-56-51.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-26_16-56-51.csv
+2025-02-27 15:39:58,313 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 15:39:58,418 - INFO - Successfully saved churn_data_2025-02-27_15-39-58.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_15-39-58.csv
+2025-02-27 15:40:01,531 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 15:40:03,698 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 15:40:07,546 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 15:40:09,540 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 15:40:11,472 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 15:40:11,497 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_15-40-11.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_15-40-11.csv
+2025-02-27 15:40:11,524 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_15-40-11.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_15-40-11.csv
+2025-02-27 15:40:11,555 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_15-40-11.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_15-40-11.csv
+2025-02-27 15:40:11,570 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_15-40-11.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_15-40-11.csv
+2025-02-27 15:40:11,593 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_15-40-11.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_15-40-11.csv
+2025-02-27 16:57:45,626 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 16:57:45,831 - INFO - Successfully saved churn_data_2025-02-27_16-57-45.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_16-57-45.csv
+2025-02-27 16:57:49,692 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 16:57:51,984 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 16:57:54,505 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 16:57:56,591 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 16:57:58,761 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 16:57:58,846 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_16-57-58.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_16-57-58.csv
+2025-02-27 16:57:58,938 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_16-57-58.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_16-57-58.csv
+2025-02-27 16:57:58,996 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_16-57-58.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_16-57-58.csv
+2025-02-27 16:57:59,032 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_16-57-58.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_16-57-58.csv
+2025-02-27 16:57:59,079 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_16-57-59.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_16-57-59.csv
+2025-02-27 17:06:50,516 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 17:06:50,738 - INFO - Successfully saved churn_data_2025-02-27_17-06-50.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_17-06-50.csv
+2025-02-27 17:06:54,772 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 17:06:57,205 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 17:06:59,461 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 17:07:01,659 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 17:07:04,531 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 17:07:04,618 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_17-07-04.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_17-07-04.csv
+2025-02-27 17:07:04,685 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_17-07-04.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_17-07-04.csv
+2025-02-27 17:07:04,744 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_17-07-04.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_17-07-04.csv
+2025-02-27 17:07:04,792 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_17-07-04.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_17-07-04.csv
+2025-02-27 17:07:04,847 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_17-07-04.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_17-07-04.csv
+2025-02-27 17:30:02,151 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 17:30:02,389 - INFO - Successfully saved churn_data_2025-02-27_17-30-02.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_17-30-02.csv
+2025-02-27 17:30:05,967 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 17:30:08,508 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 17:30:10,875 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 17:30:13,359 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 17:30:15,861 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 17:30:15,938 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_17-30-15.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_17-30-15.csv
+2025-02-27 17:30:16,029 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_17-30-15.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_17-30-15.csv
+2025-02-27 17:30:16,101 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_17-30-16.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_17-30-16.csv
+2025-02-27 17:30:16,149 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_17-30-16.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_17-30-16.csv
+2025-02-27 17:30:16,210 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_17-30-16.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_17-30-16.csv
+2025-02-27 17:32:37,645 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 17:32:37,800 - INFO - Successfully saved churn_data_2025-02-27_17-32-37.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_17-32-37.csv
+2025-02-27 17:32:40,928 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 17:32:43,446 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 17:32:45,976 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 17:32:48,203 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 17:32:50,734 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 17:32:50,795 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_17-32-50.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_17-32-50.csv
+2025-02-27 17:32:50,876 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_17-32-50.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_17-32-50.csv
+2025-02-27 17:32:50,940 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_17-32-50.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_17-32-50.csv
+2025-02-27 17:32:50,965 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_17-32-50.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_17-32-50.csv
+2025-02-27 17:32:51,003 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_17-32-50.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_17-32-50.csv
+2025-02-27 17:34:22,331 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 17:34:22,479 - INFO - Successfully saved churn_data_2025-02-27_17-34-22.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_17-34-22.csv
+2025-02-27 17:34:25,518 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 17:34:28,091 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 17:34:30,715 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 17:34:33,160 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 17:34:35,473 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 17:34:35,568 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_17-34-35.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_17-34-35.csv
+2025-02-27 17:34:35,651 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_17-34-35.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_17-34-35.csv
+2025-02-27 17:34:35,720 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_17-34-35.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_17-34-35.csv
+2025-02-27 17:34:35,779 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_17-34-35.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_17-34-35.csv
+2025-02-27 17:34:35,857 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_17-34-35.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_17-34-35.csv
+2025-02-27 17:37:08,597 - INFO - Successfully ingested churn dataset from CSV.
+2025-02-27 17:37:08,733 - INFO - Successfully saved churn_data_2025-02-27_17-37-08.csv to local storage at ./raw_data/csv\churn_modelling\churn_data_2025-02-27_17-37-08.csv
+2025-02-27 17:37:11,645 - INFO - Successfully ingested SUPPORT_TICKETS data from BigQuery.
+2025-02-27 17:37:14,386 - INFO - Successfully ingested SATISFACTION_SCORES data from BigQuery.
+2025-02-27 17:37:16,884 - INFO - Successfully ingested DIGITAL_ENGAGEMENT data from BigQuery.
+2025-02-27 17:37:19,282 - INFO - Successfully ingested PAYMENT_HISTORY data from BigQuery.
+2025-02-27 17:37:21,691 - INFO - Successfully ingested COMPETITOR_ANALYSIS data from BigQuery.
+2025-02-27 17:37:21,783 - INFO - Successfully saved SUPPORT_TICKETS_2025-02-27_17-37-21.csv to local storage at ./raw_data/csv\SUPPORT_TICKETS\SUPPORT_TICKETS_2025-02-27_17-37-21.csv
+2025-02-27 17:37:21,844 - INFO - Successfully saved SATISFACTION_SCORES_2025-02-27_17-37-21.csv to local storage at ./raw_data/csv\SATISFACTION_SCORES\SATISFACTION_SCORES_2025-02-27_17-37-21.csv
+2025-02-27 17:37:21,904 - INFO - Successfully saved DIGITAL_ENGAGEMENT_2025-02-27_17-37-21.csv to local storage at ./raw_data/csv\DIGITAL_ENGAGEMENT\DIGITAL_ENGAGEMENT_2025-02-27_17-37-21.csv
+2025-02-27 17:37:21,939 - INFO - Successfully saved PAYMENT_HISTORY_2025-02-27_17-37-21.csv to local storage at ./raw_data/csv\PAYMENT_HISTORY\PAYMENT_HISTORY_2025-02-27_17-37-21.csv
+2025-02-27 17:37:21,987 - INFO - Successfully saved COMPETITOR_ANALYSIS_2025-02-27_17-37-21.csv to local storage at ./raw_data/csv\COMPETITOR_ANALYSIS\COMPETITOR_ANALYSIS_2025-02-27_17-37-21.csv

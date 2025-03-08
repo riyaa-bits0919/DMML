@@ -1,0 +1,43 @@
+Missing values in SUPPORT_TICKETS:
+CustomerID                700
+CustomerSupportTickets    513
+dtype: int64
+
+497 duplicate records found in SUPPORT_TICKETS.
+Column CustomerID in SUPPORT_TICKETS has incorrect data types.
+Column CustomerSupportTickets in SUPPORT_TICKETS has incorrect data types.
+Missing values in SATISFACTION_SCORES:
+CustomerID          700
+NetPromoterScore    513
+dtype: int64
+
+489 duplicate records found in SATISFACTION_SCORES.
+Column CustomerID in SATISFACTION_SCORES has incorrect data types.
+Column NetPromoterScore in SATISFACTION_SCORES has values out of range [-100, 100].
+Column CustomerLoyaltyProgram in SATISFACTION_SCORES contains invalid values.
+Missing values in DIGITAL_ENGAGEMENT:
+CustomerID        700
+MobileAppUsage    513
+dtype: int64
+
+494 duplicate records found in DIGITAL_ENGAGEMENT.
+Column CustomerID in DIGITAL_ENGAGEMENT has incorrect data types.
+Column MobileAppUsage in DIGITAL_ENGAGEMENT has incorrect data types.
+Missing values in PAYMENT_HISTORY:
+CustomerID            700
+AutoRenewalEnabled    511
+dtype: int64
+
+640 duplicate records found in PAYMENT_HISTORY.
+Column CustomerID in PAYMENT_HISTORY has incorrect data types.
+Column AutoRenewalEnabled in PAYMENT_HISTORY contains invalid values.
+Missing values in COMPETITOR_ANALYSIS:
+CustomerID                 696
+CompetitorWebsiteVisits    508
+dtype: int64
+
+559 duplicate records found in COMPETITOR_ANALYSIS.
+Column CompetitorWebsiteVisits in COMPETITOR_ANALYSIS contains special characters.
+Column CustomerID in COMPETITOR_ANALYSIS has incorrect data types.
+Column CompetitorWebsiteVisits in COMPETITOR_ANALYSIS has incorrect data types.
+Column MarketSentimentScore in COMPETITOR_ANALYSIS contains invalid values.
