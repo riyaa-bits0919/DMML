@@ -1,0 +1,5 @@
+outs:
+- md5: f3a0e9f6b57b398b8b2ffca7e094ac4b
+  size: 692476
+  hash: md5
+  path: CHURN_MODELLING_cleaned.csv
